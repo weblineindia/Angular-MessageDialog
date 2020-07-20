@@ -1,0 +1,39 @@
+{
+  "name": "angular-weblineindia-message-dialog-box",
+  "version": "1.0.0",
+  "author": "weblineindia",
+  "license": "MIT",
+  "repository": "https://github.com/weblineindia/AngularJS-MessageDialog",
+  "homepage": "https://www.weblineindia.com/software-development-resources.html",
+  "description": "AngularJS based MessageDialog component used for showing custom dialog with message. You can even change number of buttons on that. You can also hide header and cross icon.",
+  "keywords": [
+    "angular-weblineindia-message-dialog-box",
+    "alertbox",
+    "angular-components",
+    "messagedialog",
+    "angular-messagedialog",
+    "message-dialog-box",
+    "angular-message-dialog-box",
+    "custom-alert-box",
+    "custom-messagedialog"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^10.0.0",
+    "@angular/core": "^10.0.0",
+    "primeicons": "^4.0.0",
+    "primeng": "^9.1.2",
+    "@angular/platform-browser": "~10.0.0",
+    "@angular/platform-browser-dynamic": "~10.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "main": "bundles/angular-weblineindia-message-dialog-box.umd.js",
+  "module": "fesm2015/angular-weblineindia-message-dialog-box.js",
+  "es2015": "fesm2015/angular-weblineindia-message-dialog-box.js",
+  "esm2015": "esm2015/angular-weblineindia-message-dialog-box.js",
+  "fesm2015": "fesm2015/angular-weblineindia-message-dialog-box.js",
+  "typings": "angular-weblineindia-message-dialog-box.d.ts",
+  "metadata": "angular-weblineindia-message-dialog-box.metadata.json",
+  "sideEffects": false
+}

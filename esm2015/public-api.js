@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of message-dialog
+ */
+export * from './lib/message-dialog.service';
+export * from './lib/message-dialog.component';
+export * from './lib/message-dialog.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL21lc3NhZ2UtZGlhbG9nL3NyYy9wdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyw4QkFBOEIsQ0FBQztBQUM3QyxjQUFjLGdDQUFnQyxDQUFDO0FBQy9DLGNBQWMsNkJBQTZCLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIG1lc3NhZ2UtZGlhbG9nXG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9saWIvbWVzc2FnZS1kaWFsb2cuc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9tZXNzYWdlLWRpYWxvZy5jb21wb25lbnQnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvbWVzc2FnZS1kaWFsb2cubW9kdWxlJztcbiJdfQ==
